@@ -2,7 +2,7 @@
 applications:
 - name: pal-tracker
   path: src/PalTracker/bin/Release/netcoreapp2.1/publish/
-  routs:
+  routes:
    - route: dso-pal-tracker-review.apps.pikes.pal.pivotal.io
   env:
     WELCOME_MESSAGE: Review Environment
