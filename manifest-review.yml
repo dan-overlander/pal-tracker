@@ -5,4 +5,4 @@ applications:
   routes:
    - route: dso-pal-tracker-review.apps.pikes.pal.pivotal.io
   env:
-    WELCOME_MESSAGE: Review Environment
+    WELCOME_MESSAGE: Hello from the review environment
